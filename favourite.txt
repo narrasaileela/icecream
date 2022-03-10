@@ -1,0 +1,5 @@
+if 
+{
+icecream= double choclate;
+}
+print("favorite icecream");
