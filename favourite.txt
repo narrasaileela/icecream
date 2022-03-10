@@ -3,3 +3,6 @@ if
 icecream= double choclate;
 }
 print("favorite icecream");
+else {
+print("this is not my favourite");
+}
