@@ -1,8 +1,8 @@
 if 
 {
-icecream= double choclate;
+icecream flavor = pista;
 }
-print("favorite icecream");
+print("my favourite");
 else {
 print("this is not my favourite");
 }
